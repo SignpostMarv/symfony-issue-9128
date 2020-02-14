@@ -1,0 +1,17 @@
+{
+    "name": "signpostmarv/symfony-issue-9128",
+    "description": "reproduction of symfony/symfony#9128",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SignpostMarv",
+            "email": "me@signpostmarv.name"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "^5.0",
+        "ext-gd": "*",
+        "php": "^7.4"
+    }
+}
